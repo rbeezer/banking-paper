@@ -2,4 +2,6 @@ A first paragraph.
 
 A second paragraph, with Alice's recommendations.
 
-A third paragraph.
+All of Bob's recommendations in a second paragraph.
+
+A fourth paragraph.
